@@ -8,9 +8,9 @@ Uma ferramenta muito útil, para o desenvolvimento de e manipulação de dados.
 O curso AWS, mostrou exemplos de atividades utilizadas no dia do profissional de Ti, conseguiu realizar uma introdução em sua utilidade, de maneira teórica, porem esclarecendo bastante o dia dia do desenvolvedor. Lógico que deve ter sido superficialmente porem agora já pode imaginar o dia dia desse profissional.
 
 Certificado do Curso da sprint_04:
-* [certificado .pdf](<certificados/AWS Partner Credenciamento (Técnico) (Português) AWS Partner  Accreditation (Technical) (Portuguese).pdf>)
+* [certificado .pdf](<certificados/AWS Partner Credenciamento (Técnico) (Português) AWS .....pdf>)
 
-![certificado .png](<certificados/AWS Partner Credenciamento (Técnico) (Português) AWS Partner  Accreditation (Technical) (Portuguese).png>)
+![certificado .png](<certificados/AWS Partner Credenciamento (Técnico) (Português) AWS .....png>)
 
 Este curso gerou um acesso a outro curso da AWS:
 * [certificado .pdf](<certificados/AWS Technical Essentials - AWS Course Completion Certificate.pdf>)
