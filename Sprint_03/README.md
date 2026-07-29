@@ -6,7 +6,7 @@ O curso de AWS acredito que demonstrou boa abordagem em possíveis duvidas que p
 
 Duvidas de em relação à configuração de infraestruturas, otimização de custo, a elevação do nível de Ti que emerge com a migração para AWS, e os custos que são eliminados com essa migração, entre outros tópicos que foram abordados...
 
-T
+
 [certificado](/Sprint_03/certificado/AWS_Course_Completion_Certificate.pdf)
 
 O link acima não esta indo corretamente segue a imagem em.png 
