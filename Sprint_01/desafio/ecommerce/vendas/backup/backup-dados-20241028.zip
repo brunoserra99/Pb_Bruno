@@ -1,0 +1,89 @@
+id,produto,quantidade,preço,data
+1,tênis,4,140.00,27/10/2024
+2,camiseta,2,35.90,27/10/2024
+3,relógio inteligente,3,610.00,27/10/2024
+4,pasta sanfonada,4,42.00,27/10/2024
+5,mouse sem fio,7,58.00,27/10/2024
+6,lavadora de roupas,1,3100.00,27/10/2024
+7,mochila,9,80.00,27/10/2024
+8,flauta transversal,2,2025.00,27/10/2024
+9,cinto,8,20.00,27/10/2024
+10,ar condicionado,1,2600.00,27/10/2024
+11,saxofone,4,4400.00,27/10/2024
+12,monitor yamaha hs5,2,1010.00,27/10/2024
+13,cadeira de jantar,6,540.00,27/10/2024
+14,meia,20,6.50,27/10/2024
+15,pedaleira preta,5,490.00,27/10/2024
+16,cabo HDMI,10,18.00,27/10/2024
+17,caixa de som jbl,2,50.00,27/10/2024
+18,borracha,25,0.80,27/10/2024
+19,palheta dunlop,20,1.30,27/10/2024
+20,banqueta para violão,6,70.00,27/10/2024
+21,tablet,5,480.00,27/10/2024
+22,livro,15,25.00,27/10/2024
+23,camisa,7,48.00,27/10/2024
+24,caderno,18,10.00,27/10/2024
+25,pilha AA,20,2.20,27/10/2024
+26,jogo de panelas antiaderente,5,125.00,27/10/2024
+27,batedeira planetária,2,310.00,27/10/2024
+28,smartphone,3,1150.00,27/10/2024
+29,secadora de roupas,1,2900.00,27/10/2024
+30,luminária de mesa,4,45.00,27/10/2024
+31,papel sulfite A4 500 folhas,6,30.00,27/10/2024
+32,relógio de parede,8,22.00,27/10/2024
+33,escova elétrica,4,260.00,27/10/2024
+34,cabo para instrumento ninja,10,60.00,27/10/2024
+35,jogo de tabuleiro,2,210.00,27/10/2024
+36,limpador de cordas,8,28.00,27/10/2024
+37,filtro de linha,6,32.00,27/10/2024
+38,cabo para microfone,10,15.50,27/10/2024
+39,pincel atômico,8,7.00,27/10/2024
+40,mochila,9,80.00,27/10/2024
+41,camiseta,2,35.90,27/10/2024
+42,faca elétrica,4,82.00,27/10/2024
+43,pasta sanfonada,4,42.00,27/10/2024
+44,capotraste,8,100.00,27/10/2024
+45,correia para guitarra,9,21.00,27/10/2024
+46,jogo de panelas antiaderente,5,125.00,27/10/2024
+47,monitor yamaha hs5,2,1010.00,27/10/2024
+48,relógio inteligente,3,610.00,27/10/2024
+49,almofada,10,50.00,27/10/2024
+50,microfone sem fio shure,3,2150.00,28/10/2024
+51,lápis,30,1.20,28/10/2024
+52,suporte para flauta,4,90.00,28/10/2024
+53,caixa acústica,8,789.00,28/10/2024
+54,pedaleira preta,5,490.00,28/10/2024
+55,pilha AA,20,2.20,28/10/2024
+56,smartphone,3,1150.00,28/10/2024
+57,teclado musical casio,2,820.00,28/10/2024
+58,secadora de roupas,1,2900.00,28/10/2024
+59,batedeira planetária,2,310.00,28/10/2024
+60,almofada,10,50.00,28/10/2024
+61,jogo de tabuleiro,2,210.00,28/10/2024
+62,monitor yamaha hs5,2,1010.00,28/10/2024
+63,tablet,5,480.00,28/10/2024
+64,caixa de som jbl,2,50.00,28/10/2024
+65,ar condicionado,1,2600.00,28/10/2024
+66,escova elétrica,4,260.00,28/10/2024
+67,teclado musical casio,2,820.00,28/10/2024
+68,escova elétrica,4,260.00,28/10/2024
+69,impressora,2,420.00,28/10/2024
+70,jogo de tabuleiro,2,210.00,28/10/2024
+71,pedaleira preta,5,490.00,28/10/2024
+72,smartphone,3,1150.00,28/10/2024
+73,tablet,5,480.00,28/10/2024
+74,limpador de cordas,8,28.00,28/10/2024
+75,palheta dunlop,20,1.30,28/10/2024
+76,cobertor,5,130.00,28/10/2024
+77,papel sulfite A4 500 folhas,6,30.00,28/10/2024
+78,luminária de mesa,4,45.00,28/10/2024
+79,pedaleira preta,5,490.00,28/10/2024
+80,secadora de roupas,1,2900.00,28/10/2024
+81,pedaleira preta,5,490.00,28/10/2024
+82,relógio inteligente,3,610.00,28/10/2024
+83,jogo de panelas antiaderente,5,125.00,28/10/2024
+84,jogo de tabuleiro,2,210.00,28/10/2024
+85,tablet,5,480.00,28/10/2024
+86,limpador de cordas,8,28.00,28/10/2024
+87,caixa acústica,8,789.00,28/10/2024
+88,suporte para flauta,4,90.00,28/10/2024

@@ -1,0 +1,9 @@
+wget -o README.md https://raw.githubusercontent.com/brunoserra99/Pb_Bruno_Serra/refs/heads/main/README.md?token=GHSAT0AAAAAAC3UJ7ZQSQBPJAQYTOBKQWQOZ4NK3NA
+
+file_path = "/home/jovyan/README.md"
+
+rdd = sc.textFile(file_path)
+
+palavras = rdd.map(lambda line: len(line.split())).sum()
+
+print(f"Quantidade total de palavras no README: {int(palavras)}")

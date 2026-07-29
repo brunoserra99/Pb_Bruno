@@ -1,0 +1,27 @@
+import boto3
+import json
+import pandas
+
+ 
+chave = 'MINHA_CHAVE_AWS_AQUI'
+chave_secreta = 'MINHA_CHAVE_AWS_AQUI'
+token = 'MINHA_CHAVE_AWS_AQUI'
+
+def lambda_handler(event, context):
+    s3 = boto3.client('s3',
+		aws_access_key_id=chave, 
+		aws_secret_access_key=chave_secreta, 
+		aws_session_token=token,
+		region_name='us-east-1'
+		)               
+
+    bucket_name = 'bucketbsaws'
+    s3_file_name = 'dado/nomes.csv'
+    objeto = s3.get_object(Bucket=bucket_name, Key=s3_file_name)
+    df=pandas.read_csv(objeto['Body'], sep=',')
+    rows = len(df.axes[0])
+ 
+    return {
+        'statusCode': 200,
+        'body': f"Este arquivo tem {rows} linhas"
+    }

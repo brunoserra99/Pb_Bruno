@@ -1,0 +1,14 @@
+2024/10/26 15:27
+25/10/2024
+26/10/2024
+69
+1,sanduicheira elétrica,6,45.00,25/10/2024
+2,cola,10,3.00,25/10/2024
+3,limpador de cordas,8,30.00,25/10/2024
+4,óculos de sol,5,150.00,25/10/2024
+5,sintetizador de voz,3,340.00,25/10/2024
+6,pincel atômico,8,6.00,25/10/2024
+7,vaporizador de roupas,1,160.00,25/10/2024
+8,meia,20,6.00,25/10/2024
+9,ar condicionado,1,2500.00,25/10/2024
+10,pilha AA,20,2.50,25/10/2024

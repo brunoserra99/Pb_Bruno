@@ -1,0 +1,89 @@
+id,produto,quantidade,preço,data
+1,sanduicheira elétrica,6,45.00,25/10/2024
+2,cola,10,3.00,25/10/2024
+3,limpador de cordas,8,30.00,25/10/2024
+4,óculos de sol,5,150.00,25/10/2024
+5,sintetizador de voz,3,340.00,25/10/2024
+6,pincel atômico,8,6.00,25/10/2024
+7,vaporizador de roupas,1,160.00,25/10/2024
+8,meia,20,6.00,25/10/2024
+9,ar condicionado,1,2500.00,25/10/2024
+10,pilha AA,20,2.50,25/10/2024
+11,batedeira planetária,2,320.00,25/10/2024
+12,mouse sem fio,7,55.00,25/10/2024
+13,correia para guitarra,9,22.00,25/10/2024
+14,flauta transversal,2,2100.00,25/10/2024
+15,livro,15,22.00,25/10/2024
+16,pedaleira preta,5,500.00,25/10/2024
+17,mochila,9,75.00,25/10/2024
+18,furadeira elétrica,2,210.00,25/10/2024
+19,encordoamento para guitarra,12,45.00,25/10/2024
+20,luminária de mesa,4,50.00,25/10/2024
+21,violão acústico,4,320.00,25/10/2024
+22,mixer de áudio behringer,2,900.00,25/10/2024
+23,lápis,30,1.50,25/10/2024
+24,calça,5,85.00,25/10/2024
+25,relógio inteligente,3,600.00,25/10/2024
+26,consola de videogame,1,2500.00,25/10/2024
+27,caixa acústica,8,800.00,25/10/2024
+28,casaco,2,180.00,25/10/2024
+29,cabo HDMI,10,17.00,25/10/2024
+30,secadora de roupas,1,2800.00,25/10/2024
+31,saxofone,4,4500.00,25/10/2024
+32,sapato,3,110.00,25/10/2024
+33,régua,12,5.50,25/10/2024
+34,caixa de som jbl,2,45.00,25/10/2024
+35,bermuda,6,55.00,25/10/2024
+36,smartphone,3,1200.00,25/10/2024
+37,guitarra elétrica fender,3,3100.00,25/10/2024
+38,camisa,7,45.00,25/10/2024
+39,camiseta,2,32.90,25/10/2024
+40,estojo para flauta,10,11000.00,25/10/2024
+41,tênis,4,130.00,25/10/2024
+42,microfone sem fio shure,3,2100.00,25/10/2024
+43,relogio de parede,8,25.00,25/10/2024
+44,capa para violão,5,110.00,25/10/2024
+45,escova elétrica,4,250.00,25/10/2024
+46,tablet,5,450.00,25/10/2024
+47,cinto,8,18.00,25/10/2024
+48,borracha,25,0.70,25/10/2024
+49,filtro de linha,6,35.00,25/10/2024
+50,papel sulfite A4 500 folhas,6,28.00,25/10/2024
+51,poltrona,4,800.00,25/10/2024
+52,edredom,2,180.00,25/10/2024
+53,livro,15,22.00,25/10/2024
+54,impressora,2,400.00,25/10/2024
+55,camisa,7,45.00,25/10/2024
+56,lavadora de roupas,1,3000.00,25/10/2024
+57,lençol,3,75.00,25/10/2024
+58,controlador com cabo usb,4,130.00,26/10/2024
+59,câmera digital,4,900.00,26/10/2024
+60,jogo de panelas antiaderente,5,130.00,26/10/2024
+61,suporte para guitarra,7,35.00,26/10/2024
+62,óculos de sol,5,150.00,26/10/2024
+63,livro,15,22.00,26/10/2024
+64,pedestal para microfone,6,160.00,26/10/2024
+65,bone,12,12.00,26/10/2024
+66,mesa de café,2,600.00,26/10/2024
+67,amplificador de guitarra,4,850.00,26/10/2024
+68,faca elétrica,4,85.00,26/10/2024
+69,cama box,1,1500.00,26/10/2024
+70,monitor yamaha hs5,2,1000.00,26/10/2024
+71,capotraste,8,105.00,26/10/2024
+72,camisa,7,45.00,26/10/2024
+73,jogo de tabuleiro,2,200.00,26/10/2024
+74,sanduicheira elétrica,6,45.00,26/10/2024
+75,correia para guitarra,9,22.00,26/10/2024
+76,flauta transversal,2,2100.00,26/10/2024
+77,lápis,30,1.50,26/10/2024
+78,tablet,5,450.00,26/10/2024
+79,pilha AA,20,2.50,26/10/2024
+80,papel sulfite A4 500 folhas,6,28.00,26/10/2024
+81,impressora,2,400.00,26/10/2024
+82,ventilador,3,150.00,26/10/2024
+83,mouse sem fio,7,55.00,26/10/2024
+84,cinto,8,18.00,26/10/2024
+85,batedeira planetária,2,320.00,26/10/2024
+86,camisa,7,45.00,26/10/2024
+87,sapato,3,110.00,26/10/2024
+88,camiseta,2,32.90,26/10/2024
