@@ -15,11 +15,11 @@ O curso AWS, mostrou exemplos de atividades utilizadas no dia do profissional de
 Certificado do Curso da sprint_05:
 
 Noções básicas de Analytics na AWS – Parte 1 (Português) | Fundamentals of Analytics on AWS – Part 1 (Portuguese)
-* [certificado .pdf](<certificados/Noções básicas de Analytics na AWS – Parte 1 (Português)_AWS Skill Builder Course Completion Certificate.pdf>)
+* [certificado .pdf](<certificados/Noções básicas de Analytics na AWS – Parte 1 (Português)_AWS Skill Builder .......pdf>)
 
 Fundamentos de analytics na AWS – Parte 2 (Português) | Fundamentals of Analytics on AWS – Part 2 (Portuguese)
 
-* [certificado .pdf](<certificados/Fundamentos de analytics na AWS – Parte 2 (Português)_AWS Skill Builder Course Completion Certificate.pdf>)
+* [certificado .pdf](<certificados/Fundamentos de analytics na AWS – Parte 2 (Português)_AWS Skill Builder......pdf>)
 
 AWS Skill Builder - Serverless Analytics (Portuguese)
 
@@ -43,7 +43,7 @@ Getting Started with Amazon Redshift (Portuguese)
 
 AWS Skill Builder - Best Practices for Data Warehousing with Amazon Redshift (Portuguese)
 
-* [certificado .pdf](<certificados/RETIRING - 2025-01-23 Best Practices for Data Warehousing with Amazon Redshift (Portuguese)_AWS Course Completion Certificate.pdf>)
+* [certificado .pdf](<certificados/RETIRING - 2025-01-23 Best Practices for Data Warehousing with Amazon Redshift....pdf>)
 
 AWS Skill Builder - Amazon QuickSight - Getting Started (English)
 
